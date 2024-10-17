@@ -1,29 +1,3 @@
-/*
-* Status: print_row() not working
- * Chapter 3: finished
- * develop deeper understanding for serialization and deserialization!
- *
- * Chapter 4: Let's begin
- * changes made: Supports maximum string limit 32 and maximum email size of 255
- *		 Tests made.
- *
- * 
- *
- * Chapter 5: 
- * changed new_table() to db_open()
- * new struct pager
- * =======================================================
- * UNDERSTAND CHAPTER 5 BETTER ---------- 09-10-2024
- * =======================================================
- * db_close() left
- *
- *
- * maybe a new approach to implementing this would be to read the entire chapter first, understand the requirements first and then go on and thinking about the implementation plan and then implementing in your practice file and then verify what's happening.
- *
- *
- * Another thing that could be done is to jot down what every function does for a better understanding. Draw a diagram or such.
- */
-
 //====================================HEADERFILES=====================================================//
 #include <stdio.h>
 #include <stdlib.h>
