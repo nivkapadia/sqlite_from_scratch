@@ -19,5 +19,5 @@
 <ul>
     <li>It can not insert data in sorted order</li>
     <li>It has O(n) retrieval time</li>
-    <li>A bug in the code results in error at 28 entries even though in theory the database should be able to insert more approximately 1400 entries</li>
+    <li>A bug in the code results in error at 28 entries even though in theory the database should be able to insert approximately 1400 entries</li>
 </ul>
